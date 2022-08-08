@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Homepage: https://fdns.dewep.online/
-! Title: fDNS
+! Title: fDNS Wildcard
 ! Expires: 2 days
 ! Version: 20220808
 ! Last modified: 08 Aug 2022
