@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Homepage: https://fdns.dewep.online/
+! Title: fDNS
+! Expires: 2 days
+! Version: 20220808
+! Last modified: 08 Aug 2022
+! Description: Domain filter to track users, ads and more.
+!
+! You can report unblocked content and direct general queries to us
+! via e-mail - fdns@dewep.online
+!
+! License: https://raw.githubusercontent.com/dewep-online/fdns-filters/master/LICENSE
+!--------------------------------------------------------------------------!
